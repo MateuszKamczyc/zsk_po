@@ -1,0 +1,262 @@
+ 1  git clone https://github.com/bartekRatajewski/zsk_2023.git
+    2  1s
+    3  ls
+    4  cd zsk_2023
+    5  ls
+    6  git status
+    7  history
+    8  alis c=clear
+    9  alias c=clear
+   10  c
+   11  history
+   12  cc
+   13  c
+   14  php -v
+   15  php -v
+   16  composer global require laravel/installer
+   17  composer global require laravel/installer
+   18  cd
+   19  cd zsk_2023
+   20  git status
+   21  git status
+   22  git add *
+   23  c
+   24  clear
+   25  cd ..
+   26  ls
+   27  cd zsk_2023/
+   28  git status
+   29  git add *
+   30  git commit -m
+   31  laravel new project_1
+   32  git add *
+   33  git commit -m
+   34  git commit -m "new_laravel_project"
+   35  git config --global user.email "bartosz.ratajewski@uczen.zsk.poznan.pl"
+   36  git --global user.name "bartekRatajewski"
+   37  git commit -m "new_laravel_project"
+   38  git push
+   39  git --global --list
+   40  git config --global --list
+   41  laravel new project_1
+   42  ls
+   43  cd project_1
+   44  ls
+   45  php artisan serv
+   46  git config --global --list
+   47  git config --global --list
+   48  git config --global --edit
+   49  git config --global --list
+   50  git clone https://github.com/MateuszKamczyc/zsk_programowanie_obiektowe.git
+   51  git clone https://github.com/MateuszKamczyc/zsk_po.git
+   52  php -v
+   53  composer global require laravel/installer
+   54  laravel new project_1
+   55  ls
+   56  php artisan serv
+   57  ls
+   58  cd project_1/
+   59  cd project_1
+   60  php artisan serv
+   61  php artisan serv
+   62  npm run dev
+   63  cd ..
+   64  ls
+   65  git status
+   66  git add *
+   67  git status
+   68  git commit -m "add new project Laravel"
+   69  git status
+   70  git push
+   71  git config --list
+   72  git config --global --list
+   73  git config --global user.name"MateuszKamczyc"
+   74  git config --global --list
+   75  git config --global user.email"kamczyc.mateusz@gmail.com"
+   76  git config --global --list
+   77  git config --global user.email "kamczyc.mateusz@gmail.com"
+   78  git config --global --list
+   79  git config --global user.name "MateuszKamczyc"
+   80  git push
+   81  git status
+   82  git commit -m "laravel moment"
+   83  git push
+   84  git push
+   85  git config user.name "MateuszKamczyc"
+   86  git push
+   87  git config user.name "user"
+   88  git config credential.username "MateuszKamczyc" --global
+   89  git config credential.username "MateuszKamczyc"
+   90  git push
+   91  git config -- globa
+   92  git config --global username "a"
+   93  git config --global user.name "a"
+   94  git config --global --list
+   95  git config --global user.email "a"
+   96  git config --global --list
+   97  ls
+   98  git status
+   99  git add .
+  100  git init
+  101  git add README.md
+  102  git commit -m "first commit"
+  103  git remote add origin git@github.com:alekszak006/ZSK2023.git
+  104  git push -u
+  105  git add .
+  106  git commit -m 'add routes'
+  107  ls
+  108  php artisan route:list
+  109  php artisan route:list -v
+  110  lear
+  111  clear
+  112  php artisan route:list --path=city
+  113  php artisan route:list --path=city -v
+  114  php artisan route:list --path=password -v
+  115  php artisan route:list --path=city -v
+  116  php artisan route:list --path=password -v
+  117  php artisan route:list  -v
+  118  php artisan route:list  -v --except vendor
+  119  php artisan route:list  -v --except-vendor
+  120  php artisan route:list  -v --only-vendor
+  121  ls
+  122  cd ..
+  123  ls Projekt2
+  124  cd project_1
+  125  php artisan serve
+  126  ls
+  127  git status
+  128  origin/main
+  129  main
+  130  git add
+  131  git push origin
+  132  cd ..
+  133  cd ..
+  134  pwd
+  135  cd C:\xampp\htdocs\git\zsk\zsk_po
+  136  cd ..
+  137  cd ..
+  138  cd ..
+  139  cd ..
+  140  cd ..
+  141  cd ..
+  142  cd C:\xampp\htdocs\git\zsk\zsk_po
+  143  ls
+  144  git config --global user.name "alekszak006"
+  145  git config --global user.email "alekszak06@icloud.com"
+  146  git clone https://github.com/alekszak006/zsk2023.git
+  147  cd C:\xampp2\htdocs\git\gr2\zsk2023
+  148  cd zsk2023
+  149  git status
+  150  cls
+  151  clr
+  152  cp .env.example.env
+  153  php artisan key:generate
+  154  cd git
+  155  cd C:\xampp2\htdocs\git\gr2\zsk2023
+  156  cd..
+  157  cd C:\xampp2\htdocs\git\gr2\zsk2023\project1
+  158  cd C:\xampp2\htdocs\git\gr2\zsk2023\project1
+  159  cd C:/xampp2/htdocs/git/gr2/zsk2023/project1
+  160  ls
+  161  cd..
+  162  cd ..
+  163  mkdir git_lab
+  164  clear
+  165  alias c=clear
+  166  c
+  167  ls
+  168  cd git_lab
+  169  ld
+  170  c
+  171  ls
+  172  c
+  173  echo "Janusz Kowalski" > file
+  174  ls
+  175  c
+  176  cat file
+  177  echo "Nowa linia" >> file
+  178  cat file
+  179  c
+  180  vim file
+  181  cat file
+  182  ls -1
+  183  ls - l >file
+  184  ls -l > file
+  185  vim file
+  186  git config --global --list
+  187  git config --global --edit
+  188  history
+  189  git config --global --edit
+  190  git config --global --list
+  191  history tail -2
+  192  history
+  193  history tail -2
+  194  history | tail -5
+  195  git add *
+  196  git commit -m "laravel"
+  197  git push origin main
+  198  user --global --list
+  199  git config --global --list
+  200  c
+  201  git commit -m "new laravel project1"
+  202  ls
+  203  git status
+  204  laravel new project1
+  205  ls
+  206  ls
+  207  git commit -m "new laravel project1"
+  208  git add .
+  209  git commit -m "aaaa"
+  210  git push
+  211  git push
+  212  git push
+  213  git push
+  214  git commit -m "letsgoo"
+  215  git add .
+  216  git push
+  217  git add project1
+  218  git commit -m "aa"
+  219  git commit -m "new laravel project"
+  220  git push
+  221  git push
+  222  user global --list
+  223  c
+  224  git commit
+  225  git push
+  226  git push
+  227  git commit
+  228  git commit -a
+  229  git commit
+  230  git commit -a
+  231  git push
+  232  git commit
+  233  git push
+  234  git add lalal.txt
+  235  git add lalal.txt
+  236  git init
+  237  git add origin https://github.com/MateuszKamczyc/Obiektowka.git
+  238  git remote add origin https://github.com/MateuszKamczyc/Obiektowka.git
+  239  git push -u origin main
+  240  git commit -m "komentarz"
+  241  git add
+  242  help
+  243  git add help
+  244  git add -a
+  245  git add -A
+  246  git push
+  247  git -M main
+  248  git main
+  249  git branch -A
+  250  git branch -a
+  251  git branch galez
+  252  https://github.com/MateuszKamczyc/Obiektowka.git
+  253  git init https://github.com/MateuszKamczyc/Obiektowka.git
+  254  git init
+  255  git add README.md
+  256  git commit -m "first commit"
+  257  git branch -M main
+  258  git remote add origin https://github.com/MateuszKamczyc/Obiektowka.git
+  259  git push
+  260  git push -u origin main
+  261  git history
+  262  history
